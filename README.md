@@ -57,6 +57,7 @@ Open the notebook in:
 - Jupyter Notebook
 - JupyterLab
 - Google Colab
+or a similar IDE.
 
 Then run the cells in order.
 
@@ -90,4 +91,4 @@ pip install numpy matplotlib astropy scipy
 
 ## Notes
 
-This project was adapted from a Google Colab workflow into a GitHub-compatible structure for reproducible analysis and submission purposes.
+I adapted this project from a Google Colab workflow into a GitHub repository with the help of generative AI tools for reproducible analysis.
