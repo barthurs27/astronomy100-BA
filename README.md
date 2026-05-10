@@ -20,6 +20,8 @@ This repository contains the reduction and analysis workflow for FAST spectrosco
 
 ## Required Data Files
 
+You'll need to first download the repository.
+
 The calibration files (biases and flats) are too large to store directly in GitHub and must be downloaded separately.
 
 Download them from:
