@@ -26,13 +26,13 @@ Download them from:
 
 https://drive.google.com/drive/folders/1qaZS5Wl4mblm4BPtt_-4hwT-zae-f7l5?usp=sharing
 
-After downloading, place the files into a folder named:
+After downloading, extract the folder named:
 
 ```text
 flats_biases/
 ```
 
-in the root of the repository.
+and place it in the root of the repository.
 
 Your repository structure should look like:
 
