@@ -13,7 +13,7 @@ This repository contains the reduction and analysis workflow for FAST spectrosco
 - `COMP.fits`
   - Arc lamp comparison spectrum used for wavelength calibration
 
-- `flats_biases/`
+- `flats_biases`
   - Folder containing flat-field and bias calibration FITS files
 
 ---
