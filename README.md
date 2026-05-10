@@ -70,6 +70,8 @@ The notebook has been configured to:
 
 No Google Drive mounting is required.
 
+You may get a minor error, particularly in Jupyter, on cell 20 telling you the covariance of the parameters cannot be estimated. You may also get a minor error when importing numpy at the beginning that you need a different version of numpy. Both of these errors can be disregarded; the code will still run properly.
+
 ---
 
 ## Python Dependencies
