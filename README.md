@@ -91,4 +91,4 @@ pip install numpy matplotlib astropy scipy
 
 ## Notes
 
-I adapted this project from a Google Colab workflow into a GitHub repository with the help of generative AI tools for reproducible analysis.
+I adapted this project from a Google Colab workflow into a GitHub repository with the help of generative AI tools for reproducible analysis. Thank you to Dr. Ashley Villar, Allyson Bieryla, Wasundara Athukoralalage, Karthik Yadavalli, Yize Dong, Ian Loyd, and countless others for their help.
