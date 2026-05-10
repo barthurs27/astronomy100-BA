@@ -66,7 +66,7 @@ Then run the cells in order.
 The notebook has been configured to:
 - read `NGC3526DATA.fits` directly from the repository root
 - read `COMP.fits` directly from the repository root
-- access calibration frames from `flats_biases/`
+- access calibration frames from `flats_biases`
 
 No Google Drive mounting is required.
 
