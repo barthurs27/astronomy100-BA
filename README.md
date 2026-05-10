@@ -59,6 +59,7 @@ Open the notebook in:
 - Jupyter Notebook
 - JupyterLab
 - Google Colab
+  
 or a similar IDE.
 
 Then run the cells in order.
