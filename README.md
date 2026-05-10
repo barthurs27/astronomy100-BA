@@ -81,12 +81,13 @@ numpy
 matplotlib
 astropy
 scipy
+plotly
 ```
 
 Install with:
 
 ```bash
-pip install numpy matplotlib astropy scipy
+pip install numpy matplotlib astropy scipy plotly
 ```
 
 ---
