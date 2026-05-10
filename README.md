@@ -31,7 +31,7 @@ https://drive.google.com/drive/folders/1qaZS5Wl4mblm4BPtt_-4hwT-zae-f7l5?usp=sha
 After downloading, extract the folder named:
 
 ```text
-flats_biases/
+flats_biases
 ```
 
 and place it in the root of the repository.
